@@ -10,14 +10,18 @@
 
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brian334334&style=for-the-badge&color=1a7fff" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
-I’m **Brian HIRWA**, a passionate student and self-taught **full-stack developer** focused on creating  
+I’m **Brian HIRWA**, a passionate student and self-taught **full-stack developer** focused on building  
 clean, modern, and impactful digital experiences.
 
 I enjoy learning new technologies, improving my design skills, and developing real-world applications  
-that actually help people.
+that people can actually use.
 
 ---
 
@@ -37,29 +41,33 @@ Modern responsive portfolio website.
 A recipe search web app using public APIs.
 
 ### 🔹 [Students-API](https://github.com/Brian334334/Students-API)
-REST API for managing student records (Node.js + Express).
+REST API for managing student data (Node.js + Express).
 
 ### 🔹 [JS-Geolocation](https://github.com/Brian334334/JS-Geolocation)
-A geolocation distance calculator using browser APIs.
+Geolocation distance calculator using the Browser API.
 
 ### 🔹 [E-Buy](https://github.com/Brian334334/E-Buy)
-UI concept for an e-commerce shopping platform.
+E-commerce UI concept built with HTML/CSS/JS.
 
 ---
 
 ## 📞 Contact Me
 <p align="center">
-  <a href="https://www.instagram.com/b.r.1.a.n.334/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/b.r.1.a.n.334/" target="_blank">
+    <img height="45" src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/hirwa-brian-5a1832396/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/hirwa-brian-5a1832396/" target="_blank">
+    <img height="45" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+
   <a href="mailto:bhirwa344@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-0096FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img height="45" src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
 </p>
 
 ---
