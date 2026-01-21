@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=33CFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Brian+HIRWA;Full-Stack+Developer;Frontend+Designer;Tech+Learner;Building+Modern+and+Practical+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=33CFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Brian+HIRWA;Cookin'+is+my+Language;Full-Stack+Developer;Frontend+Designer;Tech+Learner;Building+Modern+and+Practical+Projects" />
 </p>
 
 <br>
