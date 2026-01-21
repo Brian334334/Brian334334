@@ -11,8 +11,9 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brian334334&style=for-the-badge&color=1a7fff" />
+  <img src="https://img.shields.io/badge/Profile%20Views-110-1a7fff?style=for-the-badge" />
 </p>
+
 
 ---
 
