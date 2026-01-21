@@ -1,4 +1,4 @@
-<h1 align="center">Brian</h1>
+<h1 align="center">HIRWA Brian</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Brian;Student+Developer;Full-Stack+Developer;Designer;Tech+Enthusiast" alt="Typing SVG" />
