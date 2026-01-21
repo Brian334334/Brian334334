@@ -23,7 +23,7 @@ that solve real problems.
 
 ## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,git,github,vscode,python,figma" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,git,github,vscode,python,figma" />
 </p>
 
 ---
