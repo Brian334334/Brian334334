@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Brian</h1>
 
-<!--
-**Brian334334/Brian334334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Brian;Student+Developer;Full-Stack+Developer;Designer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Student • Full-Stack Developer • Designer • Builder  
+  <br>
+  Programming • Robotics • Design • Practical Technology
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I'm a **student full-stack developer** passionate about **web development, robotics, AI, and system design**.  
+I enjoy creating modern, functional, and creative solutions to real-world problems.
