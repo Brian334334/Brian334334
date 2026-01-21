@@ -28,7 +28,7 @@ that people can actually use.
 
 ## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,react,python,git,github,vscode,figma" />
 </p>
 
 ---
