@@ -18,7 +18,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m **Brian HIRWA**, a passionate student and self-taught **full-stack developer** focused on building  
+I’m **Brian HIRWA**, a passionate student and **full-stack developer** focused on building  
 clean, modern, and impactful digital experiences.
 
 I enjoy learning new technologies, improving my design skills, and developing real-world applications  
